@@ -1,0 +1,11 @@
+<script>start("/Users/nguyenkai/Documents/yougo/code-challenge/test-99tech/problem5/");</script>
+<script>onHasParentDirectory();</script>
+<script>addRow("prisma","prisma",1,128,"128 B",1736351692,"1/8/25, 10:54:52 PM");</script>
+<script>addRow("src","src",1,224,"224 B",1736351696,"1/8/25, 10:54:56 PM");</script>
+<script>addRow(".env",".env",0,452,"452 B",1736351700,"1/8/25, 10:55:00 PM");</script>
+<script>addRow(".gitignore",".gitignore",0,70,"70 B",1736351703,"1/8/25, 10:55:03 PM");</script>
+<script>addRow(".keep",".keep",0,0,"0 B",1736222357,"1/7/25, 10:59:17 AM");</script>
+<script>addRow("docker-compose.yml","docker-compose.yml",0,272,"272 B",1736351762,"1/8/25, 10:56:02 PM");</script>
+<script>addRow("package.json","package.json",0,789,"789 B",1736351709,"1/8/25, 10:55:09 PM");</script>
+<script>addRow("README.md","README.md",0,1229,"1.2 kB",1736352365,"1/8/25, 11:06:05 PM");</script>
+<script>addRow("tsconfig.json","tsconfig.json",0,355,"355 B",1736351718,"1/8/25, 10:55:18 PM");</script>
